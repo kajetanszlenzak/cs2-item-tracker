@@ -134,7 +134,7 @@ Full technical documentation (in Polish), including the data models and ERD, is 
 
 ## Authors
 
-Built by **Kajetan Szlenzak** ([Portfolio](https://kajetanszlenzak.github.io) · [LinkedIn](https://www.linkedin.com/in/kajetan-szlenzak-b7473a26a/)) and **Dawid Rubacha**.
+Built by **Kajetan Szlenzak** ([Portfolio](https://kajetanszlenzak.github.io) · [LinkedIn](https://www.linkedin.com/in/kajetan-szlenzak/)) and **Dawid Rubacha**.
 
 ## License
 
